@@ -5,6 +5,7 @@
 // @description    Break the scrips on Google Play store and linkify the screenshot images.
 // @author         JenieX
 // @match          https://play.google.com/*
+// @grant          none
 // @run-at         document-start
 // @noframes
 // @compatible     chrome Violentmonkey
